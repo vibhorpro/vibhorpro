@@ -9,7 +9,7 @@ I am vibhor mittal from Delhi, India who is a Noob,  always learning new things,
 
 - Know/Using
 
-|   | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | | |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |   |
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/HTML.png" alt="go logo" width="38">](https://html.com/)   | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | | |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |   |
 |---|---|---|---|---|---|
 
 - Learning
