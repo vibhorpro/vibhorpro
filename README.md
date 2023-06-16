@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am vibhor mittal from Delhi, India who is a Noob,  always learning new things, ready for discussions and making new projects , etc.
+I am vibhor mittal from Delhi,always learning new things, ready for discussions and making new projects , etc.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
